@@ -32,7 +32,7 @@ export default function HomePage() {
                   <Link href="/booking">Book Your Event</Link>
                 </Button>
                 <Button asChild variant="outline" size="lg" className="text-base bg-transparent">
-                  <Link href="/gallery">View Gallery</Link>
+                  <Link href="#gallery">View Gallery</Link>
                 </Button>
               </div>
 
@@ -240,7 +240,7 @@ export default function HomePage() {
               variant="outline"
               className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary bg-transparent"
             >
-              <Link href="/contact">Get Free Quote</Link>
+              <Link href="#contact">Get Free Quote</Link>
             </Button>
           </div>
         </div>

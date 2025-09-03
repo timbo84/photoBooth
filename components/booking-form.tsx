@@ -305,7 +305,7 @@ export function BookingForm() {
       </Card>
 
       {/* Additional Details */}
-      <Card>
+      {/* <Card>
         <CardHeader>
           <CardTitle className="font-heading text-xl">Additional Details</CardTitle>
         </CardHeader>
@@ -337,7 +337,7 @@ export function BookingForm() {
             </Select>
           </div>
         </CardContent>
-      </Card>
+      </Card> */}
 
       {/* Submit Button */}
       <div className="flex justify-end">

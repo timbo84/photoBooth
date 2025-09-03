@@ -44,7 +44,7 @@ export default function BookingPage() {
 
               {/* Product Details Sidebar */}
               <div className="space-y-6">
-                <ProductDetails />
+                {/* <ProductDetails /> */}
               </div>
             </div>
           </div>
